@@ -1,4 +1,4 @@
-# Sign-Language Translator App
+#  VisuAlly App and API
 
 This repository contains the source code for a Sign-Language Translator App designed to facilitate communication between individuals who are deaf/mute and those who are not proficient in sign language. 
 The repository is structured into two main directories: `mobile/` for the Android app and `api/` for the backend API.
